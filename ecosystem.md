@@ -111,6 +111,11 @@ To add to this list, <a href="https://github.com/simplefin/simplefin.github.com/
   <div class="item-desc">Bank, brokerage, and crypto sync for Europe and New Zealand via the SimpleFIN protocol.</div>
 </a>
 
+<a class="item" href="https://undebt.it/bank-syncing-with-simplefin.php" target="_blank">
+  <div class="item-title"><img src="/img/applogos/undebtit.png" title="Undebt.it logo"> Undebt.it</div>
+  <div class="item-desc">Debt snowball payoff planner that syncs balances and payments from your bank</div>
+</a>
+
 </div>
 
 <script>
